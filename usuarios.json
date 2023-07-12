@@ -1,0 +1,94 @@
+[
+  {
+    "email": "esteban@tebanilia.com",
+    "password": "21312lkjsdñf"
+  },
+  {
+    "email": "enzo@clement.com",
+    "password": "asdfasef"
+  },
+  {
+    "email": "ceci@airasca.com",
+    "password": "sfae"
+  },
+  {
+    "email": "c@c.com",
+    "password": "asdfase"
+  },
+  {
+    "email": "ceci@a.com",
+    "password": "sdfawef"
+  },
+  {
+    "email": "a@a.com",
+    "password": "$2b$10$4Eg98sPx/.M05N5nGli5zeDGqV8DBTSHvEh44gYHoMFcc/5I8x0ta"
+  },
+  {
+    "email": "a@ab.com",
+    "password": "$2b$10$Ja/fzC9LxGw9ClaJNEvLPeGgx5zGZQt2DdKjnA8XGgEIUxK9nwHI."
+  },
+  {
+    "email": "valeg@tcec.com",
+    "password": "$2b$10$YcWgcpb2GDdeh2aKpxpuMO9Qdf2lJBKMj8EQsXUD89j2Pu0TYlcgi"
+  },
+  {
+    "email": "valeg@tcec.com",
+    "password": "$2b$10$6wsO6aWTTmfdzIAokvdxMur3rQGr7ookTBM3fya8sVZthUEm7239i"
+  },
+  {
+    "email": "sdfs@sdfasd.com",
+    "password": "$2b$10$TC2IAA1fCQqLKpq/.4dL3eAY2opM6ndyW70CiSAw4K9G24DO/jgce"
+  },
+  {
+    "email": "sdfs@sdfasd.com",
+    "password": "$2b$10$MHJzw0fGM5wGN4BRbymB/eNHArs4OquGoQ9.rgVLvHTVOjldGJgZq"
+  },
+  {
+    "email": "otra@otra.com",
+    "password": "$2b$10$aOmRiHubEbSPb9WYRXwLAug7mwh7Gymvi6CFWrm8kYau3lff3UMjK"
+  },
+  {
+    "email": "esteban@a.com",
+    "password": "$2b$10$pbKIaQhqMQMndk/rZhdJW.6Tv0/58u0h4A4v.NUkzqPgEz.Q/eNVS"
+  },
+  {
+    "email": "ecf@ecf.com",
+    "password": "$2b$10$WMNjKll6AeiP8gIvAc/Xoeh6jKoRqSzudwfdyeI77/gxmwurjheDm"
+  },
+  {
+    "email": "r@r.com",
+    "password": "$2b$10$Viw1MLm0SAdAsne0f9AszOYP./zpGcY6bT/EqWDtDx9sOSf.uKwoS"
+  },
+  {
+    "email": "admin@w.com",
+    "password": "$2b$10$G2y9Fr51N0bAysfLLb3N7uRMTrdtEyRm57Lja2nOquc0Ch4DPUZM2"
+  },
+  {
+    "email": "q@q.com",
+    "password": "$2b$10$T2mZlkwgDU2V7Y1Ea4VRnu7rXYK74UmcXIeJdKuk.YqfP0M7UT3jS"
+  },
+  {
+    "email": "e@e.com",
+    "password": "$2b$10$EBheZt5TN6kOHNYBYStYnO0QG9taqjSOg35tGxkf972LxNlTzI4jq"
+  },
+  {
+    "email": "t@t.com",
+    "password": "$2b$10$GSsVTi24m5uehRMaA4dK2uhFZedZmF9tEj5eWJwrBX9U8we2HAzsG"
+  },
+  {
+    "email": "y@y.com",
+    "password": "$2b$10$k2eBrahv24/3aD3Jv99V1eysoP3zZ5bhdylginKuNI2KgUvpuohxC"
+  },
+  {
+    "email": "esteban@a.com",
+    "password": "$2b$10$ENwOYdyM.m0EMhL3q7se8OWIG/W20q.7kRTuoaj2HoH/V7JISlfzO"
+  },
+  {
+    "email": "sadfas@sadfsa.com",
+    "password": "$2b$10$21pRgJeFzblhUP3Ynlad3edJcU.Z/rNr3SC7XqrskA5sytsAxmlAC"
+  },
+  {
+    "email": "asdfsd@asdfas.com",
+    "password": "$2b$10$YYXsIwaHj9/rcQO6C8yzpOoKLF0KAQevW31BdZRLkoc06lbJnIPuu"
+  }
+]

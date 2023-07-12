@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Perfil de <%= user.email %></title>
+  <style>
+    /* Estilos CSS para la página */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+    }
+
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    nav ul li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    main {
+      margin: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/crear-producto">Crear Productos</a></li>
+        <li><a href="/perfil">Ver Mi Perfil</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Perfil de <%= user.email %></h1>
+    <p>Bienvenido(a) al perfil de <%= user.email %>. ¡Disfruta tu visita!</p>
+  </main>
+</body>
+</html>
